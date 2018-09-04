@@ -56,16 +56,19 @@ Then I checked data.txt to make sure my list was in there.
 ![data](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/datatest.PNG)
 
 Since it was working fine, I moved on to documentation.
-__
+
+___
 
 #### Documentation
 
 I first made a repository for this project then i used the SAMPLE_README from my TA to construct this markdown file. 
-__
+
+___
 
 #### Thinking Assignment
 
-__
+
+___
 
 
 #### Program Time Complexity
