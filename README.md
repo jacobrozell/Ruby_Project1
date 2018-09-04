@@ -23,7 +23,9 @@ The programming problem was to store and maintain a list of movies entered by a 
 
 I started with the search_controller.rb file using nano in the bash terminal. I wrote the showList() method and the updateList() and saved the saveListToFile() for later. 
 
-I began working in main.rb and created an endless loop to recieve user input.
+I began working in main.rb and created an endless loop to recieve user input (as shown below).
+
+!(https://github.com/jacobrozell/Ruby_Project1/blob/master/whiletrue.PNG?raw=true)
 ___
 
 #### Documentation
