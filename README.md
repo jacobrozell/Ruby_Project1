@@ -28,7 +28,7 @@ $ ruby main.rb
 * [Thinking Assignment](#thinking-assignment)
 
 #### Short Answer
-There were 8 short answer questions. I decided to make a PowerPoint and export it as a PDF. I used 1-2 slides per question and used the Windows Snipping Tool to create pictures of the code I wrote.
+There were 8 short answer questions. I decided to make a PowerPoint and export it as a PDF. I used 1-2 slides per question and used the Windows Snipping Tool to create pictures of the code I wrote. Link to PowerPoint can be found here: [Project 1 PDF](https://github.com/jacobrozell/Ruby_Project1/blob/master/Ruby%20-%20Short%20Answer.pdf)
 ___
 
 #### Problem
