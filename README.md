@@ -78,9 +78,9 @@ The program runs with O(n) time complexity.
 ___
 
 #### License
- [Auburn University]
+Auburn University
 
 ___
 
 ## Author
- [Jacob Rozell]
+Jacob Rozell
