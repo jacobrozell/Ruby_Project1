@@ -21,7 +21,7 @@ ___
 #### Problem
 The programming problem was to store and maintain a list of movies entered by a user similar to how google stores searches and shows the most recent search on top. We had the starter files main.rb and search_controller.rb to get started with. 
 
-I started with the search_controller.rb file using nano in the bash terminal. I wrote the showList() method and the updateList() and saved the FHFHFHFHFHFHFHFHFHF for later. 
+I started with the search_controller.rb file using nano in the bash terminal. I wrote the showList() method and the updateList() and saved the saveListToFile() for later. 
 
 I began working in main.rb and created an endless loop to recieve user input.
 ___
