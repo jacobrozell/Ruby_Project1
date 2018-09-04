@@ -10,26 +10,25 @@ defaultSearchList = ["captain america", "iron man"]
 # Let first search_controller get default list
 controllerObject = SearchController.new(defaultSearchList)
 
-##### 
-#
-# 1.create endless loop 
-# 2.get an input from terminal(console)
-# 3.update search suggestion list
-# 4.loop should end when user write "exit"
-# 5.save updated "searchSuggestionList" to "data.txt" file
-#
-#####
-#<TODO: write your code here>
-
+# Create an endless loop:
 while true
+	# put a newline for formatting:
 	puts ""
+
+	# print the current list:
 	puts "Current list: #{controllerObject.showList()}"
 	puts ""
+	
+	# Obtain user input and chomp the newline:
 	print "New lookup: "
 	movie = gets.chomp
+
+	# If user types 'exit', save current list to data.txt file and break out of loop:
 	if movie == "exit"
 		controllerObject.saveListToFile()
 		break
+
+	# else add the movie to the list and covert it to all lowercase:
 	else
 		controllerObject.updateList(movie.downcase)
 	end
