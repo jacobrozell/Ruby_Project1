@@ -36,24 +36,24 @@ The programming problem was to store and maintain a list of movies entered by a 
 
 I started with the search_controller.rb file using nano in the bash terminal. I wrote the showList() method and the updateList() and saved the saveListToFile() for later. 
 
-![showList() and updateList()](https://github.com/jacobrozell/Ruby_Project1/blob/master/snippet.PNG)
+![showList() and updateList()](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/snippet.PNG)
 
 I began working in main.rb and created an endless loop to recieve user input (as shown below).
 
-![While true loop](https://github.com/jacobrozell/Ruby_Project1/blob/master/whiletrue.PNG)
+![While true loop](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/whiletrue.PNG)
 
 I now had to finish the search_controller file's saveListToFile().
 
-![saveListToFile()](https://github.com/jacobrozell/Ruby_Project1/blob/master/searchController.PNG)
+![saveListToFile()](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/searchController.PNG)
 
 With everything done I had to create a data.txt file and make sure it was working. 
 I created a list of some of my personal favorite movies.
 
-![List](https://github.com/jacobrozell/Ruby_Project1/blob/master/test.PNG)
+![List](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/test.PNG)
 
 Then I checked data.txt to make sure my list was in there.
 
-![data](https://github.com/jacobrozell/Ruby_Project1/blob/master/datatest.PNG)
+![data](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/datatest.PNG)
 
 Since it was working fine, I moved on to documentation.
 ___
