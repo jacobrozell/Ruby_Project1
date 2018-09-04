@@ -7,6 +7,19 @@ Project 1 had four main parts:
 * Documentation
 * Thinking Assignment
 
+### Quick start
+**Make sure you have Ubuntu Bash installed:
+
+> Clone/Download the solution then run `main.rb`
+
+```bash
+
+# Download all files from canvas
+
+# For Ubuntu
+$ ruby main.rb
+
+```
 
 # Table of Contents
 * [Short Answer](#short-answer)
@@ -47,6 +60,9 @@ ___
 
 #### Documentation
 
+I first made a repository for this project then i used the SAMPLE_README from my TA to construct this markdown file. 
 ___
 
 #### Thinking Assignment
+
+__
