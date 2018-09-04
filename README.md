@@ -1,6 +1,6 @@
 # Ruby - Project 1
 
-Project 1 had 4 main parts:
+Project 1 had four main parts:
 
 * Short Answer
 * Problem
