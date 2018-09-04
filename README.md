@@ -25,7 +25,7 @@ I started with the search_controller.rb file using nano in the bash terminal. I 
 
 I began working in main.rb and created an endless loop to recieve user input (as shown below).
 
-!(https://github.com/jacobrozell/Ruby_Project1/blob/master/whiletrue.PNG?raw=true)
+![While true loop](https://github.com/jacobrozell/Ruby_Project1/blob/master/whiletrue.PNG)
 ___
 
 #### Documentation
