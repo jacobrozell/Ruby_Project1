@@ -66,3 +66,18 @@ ___
 #### Thinking Assignment
 
 __
+
+
+#### Program Time Complexity
+
+The program runs with O(n) time complexity.
+
+___
+
+#### License
+ [Auburn University]
+
+___
+
+## Author
+ [Jacob Rozell]
