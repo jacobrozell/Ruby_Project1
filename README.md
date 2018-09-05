@@ -45,9 +45,13 @@ ___
 
 ### API
 
-showList returns the
-![Search_Controller](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/snippet.PNG)
+SearchController mimicks a Google search engine. It holds a list of movies and can return the list, update the list, and saves the list to a "data.txt" file. 
 
+showList returns the @searchSuggestionList in the form of a list.
+![show list](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/snippet.PNG)
+
+updateList takes in a movie name and adds it to the beginning of the list. If the movie is already in the list, it will delete the movie then add it to the beginning.
+![updateList](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/updateList.PNG)
 ___
 
 #### Program Time Complexity
