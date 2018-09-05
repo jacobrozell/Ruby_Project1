@@ -45,6 +45,8 @@ ___
 
 ### API
 
+showList returns the
+![Search_Controller](https://github.com/jacobrozell/Ruby_Project1/blob/master/Images/snippet.PNG)
 
 ___
 
