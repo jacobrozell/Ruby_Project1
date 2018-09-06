@@ -29,7 +29,7 @@ $ ruby main.rb
 * [API](#api)
 
 #### Short Answer
-There were 8 short answer questions. I decided to make a PowerPoint and export it as a PDF. I used 1-2 slides per question and used the Windows Snipping Tool to create pictures of the code I wrote. Link to PowerPoint can be found here: [Project 1 PDF](https://github.com/jacobrozell/Ruby_Project1/blob/master/Ruby%20-%20Short%20Answer.pdf)
+There were 8 short answer questions. I decided to make a PowerPoint and export it as a PDF. I used 1-2 slides per question and used the Windows Snipping Tool to create pictures of the code I wrote. Link to PowerPoint can be found here: [Project 1 PDF](https://github.com/jacobrozell/Ruby_Project1/blob/master/Ruby%20-%20Project%201.pdf)
 ___
 
 #### Problem
@@ -41,6 +41,7 @@ I first made a repository for this project then I used the SAMPLE_README from my
 ___
 
 #### Thinking Assignment
+I added the Thinkinng Assignment to the PowerPoint PDF. It can be found here: [Project 1 PDF](https://github.com/jacobrozell/Ruby_Project1/blob/master/Ruby%20-%20Project%201.pdf)
 ___
 
 ### API
